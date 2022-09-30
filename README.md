@@ -7,7 +7,7 @@
 
 A node.js application that uses user input from inquirer to populate a README.md file for user repository :genie_man:
 
-🎥 The full movie file showing functionality of the application can be found here : ![alt text](./assets/readmegenWalkthrough.webm)
+🎥 The full movie file showing functionality of the application can be found [here](./assets/readmegenWalkthrough.webm)
 
 ## User Story
 
